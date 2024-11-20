@@ -1,9 +1,9 @@
 import React from "react";
-import QuizApp from "./QuizApp";
+import ExpenseTrackerApp from "./app/ExpenseTrackerApp";
 function App() {
   return (
     <div>
-       <QuizApp />
+       <ExpenseTrackerApp />
     </div>
   );
 }
